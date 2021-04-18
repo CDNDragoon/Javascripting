@@ -1,3 +1,3 @@
-let example
-example = ('example string')
-console.log.length
+var example = 'example string';
+var z = example.length;
+console.log(z);

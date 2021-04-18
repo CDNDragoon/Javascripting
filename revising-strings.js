@@ -1,4 +1,3 @@
 let pizza 
 pizza = 'pizza is alright'
-pizza.replace(alright, 'wonderful')
-console.log(pizza)
+console.log(pizza.replace('alright', 'wonderful'));
